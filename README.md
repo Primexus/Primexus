@@ -12,7 +12,11 @@
 </div>
 
 I've started coding two years ago with lots of improvement. I'm mostly experienced when it comes to good code practices, testing and interfaces. You can find some of my personal projects in this page. I'm also a Discord bot enjoyer, and I plan to deploy one eventually.
-
+<hr>
+<i>
+    <p align="center"> "It's not about covering the tests, it's about testing the function and its behavior." </p>
+    <p align="right"> - Primexus, 2023</p>
+</i>
 <hr>
 
 ### Facts about me:
