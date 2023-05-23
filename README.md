@@ -15,7 +15,11 @@ I've started coding two years ago with lots of improvement. I'm mostly experienc
 
 <hr>
 
-### Facts about me
+### Facts about me:
 - I also speak French, I'm from Montréal after all! (No rhymes intended)
 - Coding is not my only passion, I also love videogames as well as playing piano.
 - Some may say I'm es-lint reincarnated, due to my excessive bashing on coding practices (OCD kicking in).
+
+### Reaching me out:
+[![Linkedin Badge](https://img.shields.io/badge/-pierre--tran--canada-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-tran-canada/)
+![Discord Badge](https://img.shields.io/badge/-Coronaxus%239042-blueviolet?style=flat&logo=Discord&logoColor=white)
