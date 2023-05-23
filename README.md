@@ -28,5 +28,9 @@ I've started coding two years ago with lots of improvement. I'm mostly experienc
 ![Discord Badge](https://img.shields.io/badge/-Coronaxus%239042-blueviolet?style=flat&logo=Discord&logoColor=white)
 
 ### Languages and tools:
+![Python](https://img.shields.io/badge/-Python-1572B6?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-1572B6?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
