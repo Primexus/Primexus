@@ -38,4 +38,4 @@ I've started coding two years ago with lots of improvement. I'm mostly experienc
 ![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&logo=Node.js&logoColor=white)
 <br>
 ![Angular](https://img.shields.io/badge/-Angular-DD1B16?style=flat-square&logo=angular&logoColor=white)
-
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
