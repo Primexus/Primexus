@@ -11,7 +11,7 @@
     <h3>Software Engineering Student at Polytechnique Montréal</h3>
 </div>
 
-I've started coding two years ago with lots of improvement. I'm mostly experienced when it comes to good code practices, testing and interfaces. You can find some of my personal projects in this page. I'm a Discord bot enjoyer, and I plan to create more features eventually.
+I've started coding two years ago with lots of improvement. I'm mostly experienced when it comes to good code practices, testing and interfaces. You can find some of my personal projects in this page. I'm also a Discord bot enjoyer, and I plan to deploy one eventually.
 
 <hr>
 
