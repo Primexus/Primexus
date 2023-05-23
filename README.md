@@ -1,8 +1,8 @@
 <div align="center">
     <a> <img src="https://img.shields.io/badge/skill%20issue-on-brightgreen"/> </a>
+    <br>
     <a> <img src="https://img.shields.io/badge/es--lint-on-blueviolet"/> </a>
-    <a> <img src="https://img.shields.io/badge/skill%20issue-on-brightgreen"/> </a>
-    <a> <img src="https://img.shields.io/badge/es--lint-on-blueviolet"/> </a>
+    <a> <img src="https://img.shields.io/badge/based-always-blue"/> </a>
     <h1>Hey everyone, I'm Pierre Tran 👋</h1>
     <h3>Software Engineering Student at Polytechnique Montréal</h3>
 </div>
