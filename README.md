@@ -26,8 +26,8 @@ I've started coding two years ago with lots of improvement. I'm mostly experienc
 <a> <img src="https://komarev.com/ghpvc/?username=Primexus&label=Profile%20views&color=0e75b6&style=flat" alt="Primexus" /> </a>
 
 ### Facts about me:
-- I also speak French, I'm from Montréal after all! (No rhymes intended)
-- Coding is not my only passion, I also love videogames as well as playing piano.
+- I also speak French ⚜️, I'm from Montréal after all! (No rhymes intended) 
+- Coding is not my only passion, I also love videogames 🎮 as well as playing piano 🎹.
 - Some may say I'm es-lint reincarnated, due to my excessive bashing on coding practices (OCD kicking in).
 
 ### Reaching me out:
