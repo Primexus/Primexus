@@ -16,6 +16,8 @@ I've started coding two years ago with lots of improvement. I'm mostly experienc
 </i>
 <hr>
 
+![d](https://github.com/Primexus/Primexus/blob/main/files/mad_prime.png)
+
 <a> <img src="https://komarev.com/ghpvc/?username=Primexus&label=Profile%20views&color=0e75b6&style=flat" alt="Primexus" /> </a>
 
 ### Facts about me:
