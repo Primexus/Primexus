@@ -8,15 +8,20 @@
 </div>
 I've started coding two years ago with lots of improvement. I'm mostly experienced when it comes to good code practices, testing and interfaces. You can find some of my personal projects in this page. I'm also a Discord bot enjoyer, and I plan to deploy one eventually.
 <hr>
-<i>
-    <div align="center"> 
-        "It's not about covering the tests, it's about testing the function and its behavior."
-        <br> - Primexus, 2023
-    </div>
-</i>
-<hr>
 
-![d](https://github.com/Primexus/Primexus/blob/main/files/mad_prime.png)
+<table align="center">
+    <tr>
+        <td>
+            <i> 
+                <div align="center">"It's not about covering the tests, it's about testing the function and its behavior."</div>
+                <div align="center"> - Primexus, 2023 </div>
+            </i>
+        </td>
+        <td><img src="https://github.com/Primexus/Primexus/blob/main/files/mad_prime.png" width=100 height=100></td>
+    </tr>
+</table>
+
+<hr>
 
 <a> <img src="https://komarev.com/ghpvc/?username=Primexus&label=Profile%20views&color=0e75b6&style=flat" alt="Primexus" /> </a>
 
