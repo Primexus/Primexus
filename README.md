@@ -12,10 +12,10 @@ I've started coding two years ago with lots of improvement. I'm mostly experienc
 <table align="center">
     <tr>
         <td>
-            <i> 
+            <i><b> 
                 <div align="center">"It's not about covering the tests, it's about testing the function and its behavior."</div>
                 <div align="center"> - Primexus, 2023 </div>
-            </i>
+            </i></b>
         </td>
         <td><img src="https://github.com/Primexus/Primexus/blob/main/files/mad_prime.png" width=100 height=100></td>
     </tr>
