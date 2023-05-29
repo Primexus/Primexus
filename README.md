@@ -32,7 +32,7 @@ I've started coding two years ago with lots of improvement. I'm mostly experienc
 
 ### Reaching me out:
 [![Linkedin Badge](https://img.shields.io/badge/-pierre--tran--canada-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-tran-canada/)
-![Discord Badge](https://img.shields.io/badge/-Coronaxus%239042-blueviolet?style=flat&logo=Discord&logoColor=white)
+[![Discord Badge](https://img.shields.io/badge/-Coronaxus%239042-blueviolet?style=flat&logo=Discord&logoColor=white)](https://discord.com/)
 
 ### Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-1572B6?style=flat-square&logo=python&logoColor=white)
