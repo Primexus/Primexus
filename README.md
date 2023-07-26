@@ -31,7 +31,7 @@ I've started coding two years ago with lots of improvement. I'm mostly experienc
 - Some may say I'm es-lint reincarnated, due to my excessive bashing on coding practices (OCD kicking in).
 
 ### Reaching me out:
-[![Linkedin Badge](https://img.shields.io/badge/-pierre--tran--canada-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-tran-canada/)
+[![Linkedin Badge](https://img.shields.io/badge/-pierre--mq--tran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-mq-tran/)
 [![Discord Badge](https://img.shields.io/badge/-Coronaxus%239042-blueviolet?style=flat&logo=Discord&logoColor=white)](https://discord.com/)
 
 ### Languages and tools:
